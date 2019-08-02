@@ -9,7 +9,11 @@ output:
 
 # Parte Koz
 
-Cómo llegué?
+## Cómo llegué?
+
+- &#x2718; Diversity Scholarship
+- &#x2718; [datathon](https://github.com/DiegoKoz/datathonuser2019)
+- $\checkmark$ Colaborar con la organización. 
 
 ## Tutorial Package development
 
