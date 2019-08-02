@@ -9,6 +9,8 @@ output:
 
 # Parte Koz
 
+Cómo llegué?
+
 ## Tutorial Package development
 
 __Instructores__: Jenny Bryan ;  Jim Hester ; Hadley Wickham
