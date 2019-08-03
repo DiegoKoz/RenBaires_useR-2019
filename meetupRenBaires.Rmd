@@ -15,11 +15,13 @@ output:
 - &#x2718; [datathon](https://github.com/DiegoKoz/datathonuser2019)
 - $\checkmark$ Colaborar con la organización. 
 
-## Tutorial Package development
+### Y qué hice?
 
+## Hice un tutorial
+
+__Tutorial Package development__
 __Instructores__: Jenny Bryan ;  Jim Hester ; Hadley Wickham
 [rstd.io/pkg-dev](rstd.io/pkg-dev)
-
 
 
 Vimos:
@@ -31,20 +33,37 @@ Vimos:
 
 __La clave__: la librería [UseThis](https://usethis.r-lib.org/) tiene cientos de funciones para automatizar el proceso. Desde `create_package(path)` que te arma la estructura de carpetas para la librería, hasta `submit_cran()` para subir el paquete a CRAN. 
 
-## Charlas copadas
+## Ví charlas
 
 
 - [`n()` cool dplyr things](https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things) de @romain_francois explicó algunas funciones exóticas cómo 
 
-![`group_modify()`](group_modify.png){width=250px}
-![`group_split()`](group_split.png){width=250px}
-![lambda](lambada.png){width=250px}
+![`group_modify()`](img/group_modify.png){width=250px}
+![](img/lambada.png){width=250px}
+![`group_split()`](img/group_split.png){width=250px}
 
 
-## ShinyMeta
+Para operar con las variables agrupadas. Estos son algunos atajos para cosas que podríamos hacer con `map()`
 
-Joe Cheng (\@jcheng) presentó en su keynote una librería en desarrollo [__ShinyMeta__](https://github.com/rstudio/shinymeta) que se propone elaborar Shinyapps reproducibles. La idea es que se pueda exportar el código, __parametrizado__ y excluyendo el código que le da la interactividad a Shiny
+## Conocí librerías nuevas
 
-![](shinymeta.gif){width=900px}
+[![](img/polite.png){width=184px}](https://github.com/dmi3kno/polite)
+[![](img/usethis.png){width=184px}](https://usethis.r-lib.org/)
+[![](img/testthat.png){width=184px}](https://testthat.r-lib.org/)
+[![](img/fakir.png){width=184px}](https://github.com/ThinkR-open/fakir)
+<center>
+[![](img/fcuk.png){width=184px}](https://github.com/ThinkR-open/fcuk)
+[![](img/feasts.png){width=184px}](https://feasts.tidyverts.org/)
+[![](img/cartography.png){width=184px}](https://github.com/riatelab/cartography)
+[![](img/flextable.svg){width=184px}](https://davidgohel.github.io/flextable/)
+</center>
 
+## Escuhé keynotes
+
+Joe Cheng (\@jcheng) presentó [__ShinyMeta__](https://github.com/rstudio/shinymeta), en desarrollo, que se propone elaborar shinyapps reproducibles. El objetivo es exportar el código core, __parametrizado__ excluyendo el código asociado a la interactividad de shiny
+
+![](img/shinymeta.gif){width=900px}
+
+
+## 
 
