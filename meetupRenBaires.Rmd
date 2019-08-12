@@ -65,5 +65,10 @@ Joe Cheng (\@jcheng) presentó [__ShinyMeta__](https://github.com/rstudio/shinym
 ![](img/shinymeta.gif){width=900px}
 
 
-## 
+## Y nos encontramos unos cuantos latinos dispeross por el mundo!
+
+<center>
+<!-- ![](img/foto_latinuser.JPG){width=400px} -->
+![](img/foto_latinuser2.JPG){width=600px}
+</center>
 
