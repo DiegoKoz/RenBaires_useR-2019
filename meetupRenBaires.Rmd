@@ -11,6 +11,13 @@ output:
 
 ## Cómo llegué?
 
+__Bastante casualidad__
+
+[![](img/irit.png)](https://www.irit.fr/?lang=fr)
+
+
+__y algo de esfurezo__
+
 - &#x2718; Diversity Scholarship
 - &#x2718; [datathon](https://github.com/DiegoKoz/datathonuser2019)
 - $\checkmark$ Colaborar con la organización. 
@@ -21,7 +28,7 @@ output:
 
 __Tutorial Package development__
 __Instructores__: Jenny Bryan ;  Jim Hester ; Hadley Wickham
-[rstd.io/pkg-dev](rstd.io/pkg-dev)
+[rstd.io/pkg-dev](https://github.com/jennybc/pkg-dev-tutorial)
 
 
 Vimos:
